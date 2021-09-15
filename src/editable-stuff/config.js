@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/sangee.jpg"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Balachandran Sangeerththan. I’m a graduate of 2020 from University of Moratuwa with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -59,7 +59,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "Sangeerththan", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 30,
   specificRepos: ["Micro-E-Commerce","SangGDownloader","CV-GENERATOR", "EX-Net"],
 };
 
@@ -93,13 +93,15 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
+    { name: "PHP", value: 90 },
     { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "Data Structures", value: 80 },
+    { name: "CI/CD", value: 85 },
     { name: "C/C++", value: 65 },
     { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
+    { name: "AngularJS", value: 65 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Java", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
