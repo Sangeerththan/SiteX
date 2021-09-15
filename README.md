@@ -19,7 +19,7 @@
 [![GitHub license](https://img.shields.io/github/license/Sangeerththan/home?style=for-the-badge)](https://github.com/Sangeerththan/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sangeerththan?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/sangeerth20)
 
-[![Site preview](/public/social-image.png)](https://sangeerththan.github.io/SiteX/)
+[![Site preview](/public/sangee.png)](https://sangeerththan.github.io/SiteX/)
 
 ## Table of Contents
 
